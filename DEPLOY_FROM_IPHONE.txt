@@ -1,0 +1,9 @@
+DEPLOY FROM IPHONE
+
+1) Open github.com and create a new repo.
+2) Upload all files from this folder.
+3) Open share.streamlit.io or the Streamlit Community Cloud dashboard.
+4) Sign in with GitHub.
+5) Create app -> choose repo -> main file: streamlit_app.py
+6) Deploy.
+7) Save the final streamlit.app link to your iPhone home screen.
